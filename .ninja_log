@@ -1,0 +1,10 @@
+# ninja log v5
+2	416	1741206129009154365	multilevel_app/CMakeFiles/multilevel_app.dir/main.cpp.o	e153fd80b0cde9bb
+2	435	1741206129028154154	refactoring/CMakeFiles/refactoring.dir/refactoring.cpp.o	2bac6d9ec111f8b1
+2	786	1741206129379150267	sort/CMakeFiles/sort.dir/main.cpp.o	c5d1f4029752c715
+435	548	1741206129139152925	refactoring/refactoring	60e850c4e5e924bf
+3	30	1741206559723823018	multilevel_app/CMakeFiles/multilevel_app.dir/menu_item.cpp.o	1ee20ccda6c25d98
+3	399	1741206560092821100	multilevel_app/CMakeFiles/multilevel_app.dir/menu_functions.cpp.o	dcc934022f5bfaf1
+4	427	1741206560120820955	sort/CMakeFiles/sort.dir/shellsort_functions.cpp.o	8e06309b8771696b
+399	507	1741206560198820550	multilevel_app/multilevel_app	d00bb65403cb6d60
+427	540	1741206560230820383	sort/sort	2ee661413ed5e3e

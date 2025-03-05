@@ -1,0 +1,11 @@
+/home/viktoria/HW/CMakeFiles/edit_cache.dir
+/home/viktoria/HW/CMakeFiles/rebuild_cache.dir
+/home/viktoria/HW/multilevel_app/CMakeFiles/multilevel_app.dir
+/home/viktoria/HW/multilevel_app/CMakeFiles/edit_cache.dir
+/home/viktoria/HW/multilevel_app/CMakeFiles/rebuild_cache.dir
+/home/viktoria/HW/refactoring/CMakeFiles/refactoring.dir
+/home/viktoria/HW/refactoring/CMakeFiles/edit_cache.dir
+/home/viktoria/HW/refactoring/CMakeFiles/rebuild_cache.dir
+/home/viktoria/HW/sort/CMakeFiles/sort.dir
+/home/viktoria/HW/sort/CMakeFiles/edit_cache.dir
+/home/viktoria/HW/sort/CMakeFiles/rebuild_cache.dir
