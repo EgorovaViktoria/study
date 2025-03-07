@@ -1,3 +1,9 @@
 .vscode/
 .alcache/
 build_*/
+*CMakeFiles/
+lib/
+
+*.ninja*
+*.cmake
+
