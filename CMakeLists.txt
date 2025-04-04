@@ -9,5 +9,6 @@ add_subdirectory(multilevel_app)
 add_subdirectory(refactoring)
 add_subdirectory(sort)
 add_subdirectory(unit_test_example)
+add_subdirectory(long_number)
 
 set(CMAKE_SUPRESS_REGENERATION true)
